@@ -4,9 +4,9 @@ Hi this is the "official" repo for the LLM workshop by Khacks:
 
 
 Let's get started: 
-1. [Introduction]
-2. [[Installation]]
-3. [[Implementation]]
+1. [Introduction](./Docs/Introduction.md)
+2. [Installation](./Docs/Installation.md)
+3. [Implementation](./Docs/Implementation.md)
 
 
 In this workshop we will cover :
