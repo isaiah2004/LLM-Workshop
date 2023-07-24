@@ -4,7 +4,7 @@ Hi this is the "official" repo for the LLM workshop by Khacks:
 
 
 Let's get started: 
-1. [[Introduction]]
+1. [Introduction]
 2. [[Installation]]
 3. [[Implementation]]
 
